@@ -1,0 +1,6 @@
+{
+  "name": "CSS Layout Lab",
+  "description": "Flexbox、CSS Grid、Position、Overflow/Wrap、レイアウト崩れと修正を体験しながら学べるインタラクティブ学習展示",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
